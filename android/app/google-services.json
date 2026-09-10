@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "375032871251",
+    "project_id": "my-map-tracker-project",
+    "storage_bucket": "my-map-tracker-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375032871251:android:7f0be5a019b064b90a49a6",
+        "android_client_info": {
+          "package_name": "com.example.map_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375032871251-5qbesrgailu832la3609pgdjhkraaps2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.map_tracker",
+            "certificate_hash": "6fdda2333dfff2a7d90e4a001753287e60d47c86"
+          }
+        },
+        {
+          "client_id": "375032871251-636ig6a2omjfomr8bcs3p3upsnklsddc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHzAPkqKH-vJzn3vYL0dgPnx11UsOadQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375032871251-636ig6a2omjfomr8bcs3p3upsnklsddc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375032871251-ctb0p57k4n6qfc94q7hluv2t38afj3qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
